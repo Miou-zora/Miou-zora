@@ -1,9 +1,10 @@
-<p align="center">
+<div align="center">
   <img src="https://medias.spotern.com/spots/w640/70/70614-1532336916.jpg">
 </p>
 <h1 align="center">Salutations à vous tous</h1>
 <h3 align="center">Je m'appelle Miouzora et je suis actuellement en tek1 à Epitech Nantes.</h3>
-<p align="center">Je suis surement en train de ~~jouer~~ travailler </p>
+Je suis surement en train de ~~jouer~~ travailler
+<div align="center">
 <!--
 **Miou-zora/Miou-zora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
