@@ -2,7 +2,7 @@
   <img src="https://medias.spotern.com/spots/w640/70/70614-1532336916.jpg">
 <h1>Salutations à vous tous</h1>
 <h3>Je m'appelle Miouzora et je suis actuellement en tek1 à Epitech Nantes.</h3>
-Je suis surement en train de ~~jouer~~ travailler
+Je suis surement en train de <strike>jouer</strike> travailler
 <div align="center">
 <!--
 **Miou-zora/Miou-zora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
