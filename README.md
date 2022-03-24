@@ -1,5 +1,7 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miou-zora&show_icons=true&theme=onedark)
+![alt text](https://medias.spotern.com/spots/w640/70/70614-1532336916.jpg)
+### Salutations a vous tous
+# Je m'appelle Miouzora et je suis actuellement en Tek1 à Epitech Nantes.
+
 <!--
 **Miou-zora/Miou-zora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
