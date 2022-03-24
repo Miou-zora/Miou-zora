@@ -2,8 +2,8 @@
   <img src="https://medias.spotern.com/spots/w640/70/70614-1532336916.jpg">
 <h1>✨Salutations à vous tous✨</h1>
 <h3>Je m'appelle Miouzora et je suis actuellement en tek1 à Epitech Nantes.</h3>
-Je suis surement en train de <strike>jouer</strike> travailler.
-Ajoutez-moi sur discord (Miouzora#8182) pour qu'on chill tranquille ensemble.
+Je suis surement en train de <strike>jouer</strike> travailler.\n
+Ajoutez-moi sur discord (Miouzora#8182) pour qu'on chill tranquille ensemble.\n
 Fun fact: J'ai fait le N-Queen.
 <div align="center">
 <!--
