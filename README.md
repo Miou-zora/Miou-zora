@@ -1,7 +1,8 @@
 ![alt text](https://medias.spotern.com/spots/w640/70/70614-1532336916.jpg)
-### Salutations a vous tous
-# Je m'appelle Miouzora et je suis actuellement en Tek1 à Epitech Nantes.
-
+<p align="center">
+# Salutations a vous tous
+### Je m'appelle Miouzora et je suis actuellement en Tek1 à Epitech Nantes.
+</p>
 <!--
 **Miou-zora/Miou-zora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
