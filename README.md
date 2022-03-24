@@ -1,8 +1,8 @@
-![alt text](https://medias.spotern.com/spots/w640/70/70614-1532336916.jpg)
 <p align="center">
-  <h1>Salutations a vous tous</h1>
-  <h3>Je m'appelle Miouzora et je suis actuellement en Tek1 à Epitech Nantes.</h3>
+  <img src="https://medias.spotern.com/spots/w640/70/70614-1532336916.jpg">
 </p>
+<h1 align="center">Salutations a vous tous</h1>
+<h3 align="center">Je m'appelle Miouzora et je suis actuellement en Tek1 à Epitech Nantes.</h3>
 <!--
 **Miou-zora/Miou-zora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
