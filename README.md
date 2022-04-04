@@ -4,7 +4,7 @@
 <h3>Je m'appelle Miouzora et je suis actuellement en tek1 à Epitech Nantes.
   </h3>
 <p>Je suis surement en train de <strike>jouer</strike> travailler.</p>
-<p>Ajoutez-moi sur discord (Miouzora#8182) pour qu'on chill tranquille ensemble. (Je suis aussi ouvert à n'importe quel proposition de projet)</p>
+<p>Ajoutez-moi sur discord (Miouzora#8182) pour qu'on chill tranquille ensemble. (Je suis aussi ouverte à n'importe quelle proposition de projet)</p>
 <p>Fun fact: J'ai fait le N-Queen.</p>
 <p>PS: Oui je suis une meuf, oui je dev a Epitech.</p>
 <div align="center">
