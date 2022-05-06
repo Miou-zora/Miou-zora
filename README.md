@@ -6,7 +6,6 @@
 <p>Je suis surement en train de <strike>jouer</strike> travailler.</p>
 <p>Ajoutez-moi sur discord (Miouzora#8182) pour qu'on chill tranquille ensemble. (Je suis aussi ouverte à n'importe quelle proposition de projet)</p>
 <p>Fun fact: J'ai fait le N-Queen.</p>
-<p>PS: Oui je suis une meuf, oui je dev a Epitech.</p>
 <div align="center">
 <!--
 **Miou-zora/Miou-zora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
