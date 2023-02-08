@@ -4,10 +4,12 @@
 Je suis surement en train de <strike>jouer</strike> travailler.
 
 ## Principales Technos
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/-❤️Docker❤️-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
 ![github actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![VueJs](https://img.shields.io/badge/-VueJS-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/❤️Ubuntu❤️-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Principales Langages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -15,9 +17,16 @@ Je suis surement en train de <strike>jouer</strike> travailler.
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![Haskell](https://img.shields.io/badge/❤️Haskell❤️-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-## Comment me contacter ?
-![Discord](https://img.shields.io/badge/Miouzora#8182-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+## Ou me contacter ?
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&label=Miouzora_8182&logo=discord&logoColor=white)
+<a href="https://www.linkedin.com/in/alexandre-franquet/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  
+<div align="center">
+<img style="vertical-align: middle;" height="250em" src="https://github-readme-stats.vercel.app/api?username=Miou-zora&theme=chartreuse-dark&hide_border=true" />
+<img style="vertical-align: middle;" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Miou-zora&theme=chartreuse-dark&hide_border=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miou-zora&hide_border=true&currStreakNum=C3D1D9&theme=chartreuse-dark" alt="Miou-zora" />
+</div>
