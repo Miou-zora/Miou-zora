@@ -21,6 +21,12 @@ Je suis surement en train de <strike>jouer</strike> travailler.
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+## Jams
+<a href="https://github.com/twingoof/MONKE" target="_blank"><img alt="EpitechJamSuccess" src="https://img.shields.io/badge/EpitechJam_Success_~_MONKEY-FFD700?&style=for-the-badge&logoColor=white" />
+<a href="https://github.com/Queng123/Jam" target="_blank"><img alt="EpitechJamBlue" src="https://img.shields.io/badge/EpitechJam_Blue_~_Blue-0000FF?&style=for-the-badge&logoColor=white" />
+<a href="https://github.com/Queng123/GGJ" target="_blank"><img alt="GlobalGameJamRoot" src="https://img.shields.io/badge/GlobalGameJam_Root_~_We_löve_root-8B4513?&style=for-the-badge&logoColor=white" />
+<a href="https://github.com/Miou-zora/Jam-10-02-2023" target="_blank"><img alt="EpitechJam10022023" src="https://img.shields.io/badge/EpitechJam_Super_Hero_~_Jammy-FF0000?&style=for-the-badge&logoColor=white" />
+
 ## Ou me contacter ?
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&label=Miouzora_8182&logo=discord&logoColor=white)
 <a href="https://www.linkedin.com/in/alexandre-franquet/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
