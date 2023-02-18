@@ -1,6 +1,6 @@
 ![Kurisu_Makise_CPP](https://user-images.githubusercontent.com/91665686/219899520-0289838a-afe4-4108-8cff-fa09d07193b3.png)
 # ✨Salutations à vous tous✨
-### Je m'appelle Miouzora et je suis actuellement en <strike>tek1</strike> tek2 à 🌈[Epitech](https://www.epitech.eu/) Nantes🌈.
+### Je m'appelle Alexandre et je suis actuellement en <strike>tek1</strike> tek2 à 🌈[Epitech](https://www.epitech.eu/) Nantes🌈.
 Je suis surement en train de <strike>jouer</strike> travailler.
 
 ## Principales Technos
