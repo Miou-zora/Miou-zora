@@ -25,7 +25,17 @@ Je suis surement en train de <strike>jouer</strike> dev.
 <a href="https://github.com/twingoof/MONKE" target="_blank"><img alt="EpitechJamSuccess" src="https://img.shields.io/badge/EpitechJam_Success_~_MONKEY-FFD700?&style=for-the-badge&logoColor=white" />
 <a href="https://github.com/Queng123/Jam" target="_blank"><img alt="EpitechJamBlue" src="https://img.shields.io/badge/EpitechJam_Blue_~_Blue-0000FF?&style=for-the-badge&logoColor=white" />
 <a href="https://github.com/Queng123/GGJ" target="_blank"><img alt="GlobalGameJamRoot" src="https://img.shields.io/badge/GlobalGameJam_Root_~_We_löve_root-8B4513?&style=for-the-badge&logoColor=white" />
-<a href="https://github.com/Miou-zora/Jam-10-02-2023" target="_blank"><img alt="EpitechJam10022023" src="https://img.shields.io/badge/EpitechJam_Super_Hero_~_Jammy-FF0000?&style=for-the-badge&logoColor=white" />
+<a href="https://github.com/Miou-zora/Jam-10-02-2023" target="_blank"><img alt="EpitechJam10022023" src="https://img.shields.io/badge/EpitechJam_Super_Hero_~_Jammy-7186FF?&style=for-the-badge&logoColor=white" />
+
+## Mes projets préférés
+<a href="https://github.com/Miou-zora/Replic" target="_blank"><img alt="Replic" src="https://img.shields.io/badge/Replic-FFD343?&style=for-the-badge&logoColor=white" />
+
+<a href="https://github.com/Miou-zora/Raytracer" target="_blank"><img alt="RayTracer" src="https://img.shields.io/badge/RayTracer-031474?&style=for-the-badge&logoColor=white" />
+
+<a href="https://github.com/Queng123/Project-DevFest" target="_blank"><img alt="DevFestProject" src="https://img.shields.io/badge/DevFest_~_Star_Wars-B8B8B8?&style=for-the-badge&logoColor=white" />
+
+<a href="https://github.com/Miou-zora/Jam-10-02-2023" target="_blank"><img alt="SuperHeroesJam" src="https://img.shields.io/badge/EpitechJam_Super_Heroes_~_Jammy-7186FF?&style=for-the-badge&logoColor=white" />
+
 
 ## Ou me contacter ?
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&label=Miouzora_8182&logo=discord&logoColor=white)
