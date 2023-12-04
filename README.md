@@ -26,7 +26,7 @@ Je suis surement en train de <strike>jouer</strike> dev.
 <a href="https://github.com/Queng123/Jam" target="_blank"><img alt="EpitechJamBlue" src="https://img.shields.io/badge/EpitechJam_Blue_~_Blue-0000FF?&style=for-the-badge&logoColor=white" />
 <a href="https://github.com/Queng123/GGJ" target="_blank"><img alt="GlobalGameJamRoot" src="https://img.shields.io/badge/GlobalGameJam_Root_~_We_löve_root-8B4513?&style=for-the-badge&logoColor=white" />
 <a href="https://github.com/Miou-zora/Jam-10-02-2023" target="_blank"><img alt="EpitechJam10022023" src="https://img.shields.io/badge/EpitechJam_Super_Hero_~_Jammy-7186FF?&style=for-the-badge&logoColor=white" />
-<a href="https://github.com/Miou-zora/HindiPatas" target="_blank"><img alt="GameJam" src="https://img.shields.io/badge/EpitechJam_Game_~_Hindi_Patas-AA2430?&style=for-the-badge&logoColor=white" />
+<a href="https://github.com/Miou-zora/Hindi-Patas" target="_blank"><img alt="GameJam" src="https://img.shields.io/badge/EpitechJam_Game_~_Hindi_Patas-AA2430?&style=for-the-badge&logoColor=white" />
 
 ## Mes projets préférés
 <a href="https://github.com/Miou-zora/Replic" target="_blank"><img alt="Replic" src="https://img.shields.io/badge/Replic-FFD343?&style=for-the-badge&logoColor=white" />
