@@ -58,9 +58,11 @@ Je suis surement en train de <strike>jouer</strike> dev.
 <a href="https://github.com/Miou-zora/Hindi-Patas" target="_blank"><img alt="GameJam" src="https://img.shields.io/badge/EpitechJam_Game_~_Hindi_Patas-AA2430?&style=for-the-badge&logoColor=white" />
 
 ## Mes projets préférés
+<a href="https://github.com/Miou-zora/R-Type" target="_blank"><img alt="R-Type" src="https://img.shields.io/badge/R--Type-020752?&style=for-the-badge&logoColor=white" />
+
 <a href="https://github.com/Miou-zora/Replic" target="_blank"><img alt="Replic" src="https://img.shields.io/badge/Replic-FFD343?&style=for-the-badge&logoColor=white" />
 
-<a href="https://github.com/Miou-zora/Raytracer" target="_blank"><img alt="RayTracer" src="https://img.shields.io/badge/RayTracer-031474?&style=for-the-badge&logoColor=white" />
+<a href="https://github.com/Miou-zora/Raytracer" target="_blank"><img alt="RayTracer" src="https://img.shields.io/badge/RayTracer-052196?&style=for-the-badge&logoColor=white" />
 
 <a href="https://github.com/Queng123/Project-DevFest" target="_blank"><img alt="DevFestProject" src="https://img.shields.io/badge/DevFest_~_Star_Wars-B8B8B8?&style=for-the-badge&logoColor=white" />
 
