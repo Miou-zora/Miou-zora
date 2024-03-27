@@ -3,6 +3,16 @@
 ### Je m'appelle Alexandre et je suis actuellement en <strike>tek1</strike> <strike>tek2</strike> tek3 à 🌈[Epitech](https://www.epitech.eu/) Nantes🌈.
 Je suis surement en train de <strike>jouer</strike> dev.
 
+## Game Dev
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+<a href="https://github.com/Miou-zora/R-Type" target="_blank"><img alt="Personal ECS" src="https://img.shields.io/badge/Personal_ECS-020752?&style=for-the-badge&logoColor=white" /></a>
+![Bevy](https://img.shields.io/static/v1?style=for-the-badge&message=Bevy&color=232326&logo=Bevy&logoColor=FFFFFF&label=)
+![Löve2D](https://img.shields.io/static/v1?style=for-the-badge&message=Löve2D&color=FFAAAA&logo=Löve2D&logoColor=FFAAAA&label=)
+![Godot Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Godot+Engine&color=478CBF&logo=Godot+Engine&logoColor=FFFFFF&label=)
+![SFML/CSFML](https://img.shields.io/static/v1?style=for-the-badge&message=SFML/CSFML&color=567e25&logo=Löve2D&logoColor=567e25&label=)
+![Raylib](https://img.shields.io/static/v1?style=for-the-badge&message=Raylib&color=000000&logo=Raylib&logoColor=FFFFFF&label=)
+
 ## DevOps
 
 ![Docker](https://img.shields.io/badge/-❤️Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
@@ -35,7 +45,6 @@ Je suis surement en train de <strike>jouer</strike> dev.
 
 ## Frameworks
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![React](https://img.shields.io/badge/❤️React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![VueJs](https://img.shields.io/badge/-VueJS-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -63,24 +72,25 @@ Je suis surement en train de <strike>jouer</strike> dev.
 ![Nix](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 
 ## Jams
-<a href="https://github.com/twingoof/MONKE" target="_blank"><img alt="EpitechJamSuccess" src="https://img.shields.io/badge/EpitechJam_Success_~_MONKEY-FFD700?&style=for-the-badge&logoColor=white" />
-<a href="https://github.com/Queng123/Jam" target="_blank"><img alt="EpitechJamBlue" src="https://img.shields.io/badge/EpitechJam_Blue_~_Blue-0000FF?&style=for-the-badge&logoColor=white" />
-<a href="https://github.com/Queng123/GGJ" target="_blank"><img alt="GlobalGameJamRoot" src="https://img.shields.io/badge/GlobalGameJam_Root_~_We_löve_root-8B4513?&style=for-the-badge&logoColor=white" />
-<a href="https://github.com/Miou-zora/Jam-10-02-2023" target="_blank"><img alt="EpitechJam10022023" src="https://img.shields.io/badge/EpitechJam_Super_Hero_~_Jammy-7186FF?&style=for-the-badge&logoColor=white" />
-<a href="https://github.com/Miou-zora/Hindi-Patas" target="_blank"><img alt="GameJam" src="https://img.shields.io/badge/EpitechJam_Game_~_Hindi_Patas-AA2430?&style=for-the-badge&logoColor=white" />
+
+<a href="https://github.com/twingoof/MONKE" target="_blank"><img alt="EpitechJamSuccess" src="https://img.shields.io/badge/EpitechJam_Success_~_MONKEY-FFD700?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/Queng123/Jam" target="_blank"><img alt="EpitechJamBlue" src="https://img.shields.io/badge/EpitechJam_Blue_~_Blue-0000FF?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/Queng123/GGJ" target="_blank"><img alt="GlobalGameJamRoot" src="https://img.shields.io/badge/GlobalGameJam_Root_~_We_löve_root-8B4513?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/Miou-zora/Jam-10-02-2023" target="_blank"><img alt="EpitechJam10022023" src="https://img.shields.io/badge/EpitechJam_Super_Hero_~_Jammy-7186FF?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/Miou-zora/Hindi-Patas" target="_blank"><img alt="GameJam" src="https://img.shields.io/badge/EpitechJam_Game_~_Hindi_Patas-AA2430?&style=for-the-badge&logoColor=white" /></a>
 
 ## Mes projets préférés
 
-<a href="https://github.com/Miou-zora/R-Type" target="_blank"><img alt="R-Type" src="https://img.shields.io/badge/R--Type-020752?&style=for-the-badge&logoColor=white" />
-<a href="https://github.com/Miou-zora/Replic" target="_blank"><img alt="Replic" src="https://img.shields.io/badge/Replic-FFD343?&style=for-the-badge&logoColor=white" />
-<a href="https://github.com/Miou-zora/Raytracer" target="_blank"><img alt="RayTracer" src="https://img.shields.io/badge/RayTracer-052196?&style=for-the-badge&logoColor=white" />
-<a href="https://github.com/Queng123/Project-DevFest" target="_blank"><img alt="DevFestProject" src="https://img.shields.io/badge/DevFest_~_Star_Wars-B8B8B8?&style=for-the-badge&logoColor=white" />
-<a href="https://github.com/Miou-zora/Jam-10-02-2023" target="_blank"><img alt="SuperHeroesJam" src="https://img.shields.io/badge/EpitechJam_Super_Heroes_~_Jammy-7186FF?&style=for-the-badge&logoColor=white" />
+<a href="https://github.com/Miou-zora/R-Type" target="_blank"><img alt="R-Type" src="https://img.shields.io/badge/R--Type-020752?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/Miou-zora/Replic" target="_blank"><img alt="Replic" src="https://img.shields.io/badge/Replic-FFD343?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/Miou-zora/Raytracer" target="_blank"><img alt="RayTracer" src="https://img.shields.io/badge/RayTracer-052196?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/Queng123/Project-DevFest" target="_blank"><img alt="DevFestProject" src="https://img.shields.io/badge/DevFest_~_Star_Wars-B8B8B8?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/Miou-zora/Jam-10-02-2023" target="_blank"><img alt="SuperHeroesJam" src="https://img.shields.io/badge/EpitechJam_Super_Heroes_~_Jammy-7186FF?&style=for-the-badge&logoColor=white" /></a>
 
 
 ## Ou me contacter ?
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&label=Miouzora&logo=discord&logoColor=white)
-<a href="https://www.linkedin.com/in/alexandre-franquet/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/alexandre-franquet/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
 <div align="center">
 <img style="vertical-align: middle;" height="250em" src="https://github-readme-stats.vercel.app/api?username=Miou-zora&theme=chartreuse-dark&hide_border=true" />
