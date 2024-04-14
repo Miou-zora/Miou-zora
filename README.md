@@ -11,6 +11,7 @@
 - Fluid simulation
 - Terrain generation
 - Dotfile NixOS 🌸
+- Raytracer ([again](https://github.com/Miou-zora/Raytracer))
 
 ## 💤 <samp>Previously:<samp>
 - Implementation of a worm like entity in Rust & Bevy ([WoRm](https://github.com/Miou-zora/WoRm))
