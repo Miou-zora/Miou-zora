@@ -24,6 +24,7 @@
 - AR Project, where user is immersed in the death star scene of first Star Wars film using HTC Tracker (currently unavailable)
 
 </br>
+</br>
 
 > [!IMPORTANT]
 > You can contact me on discord (miouzora) for anything.
