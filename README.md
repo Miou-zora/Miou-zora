@@ -15,7 +15,7 @@
 ## 💤 <samp>Previously:<samp>
 - Implementation of a worm like entity in Rust & Bevy ([WoRm](https://github.com/Miou-zora/WoRm))
 - Setup of a minecraft server for OCI ([Oracle-AnsibleMine](https://github.com/Miou-zora/Oracle-AnsibleMine))
-- R-type like game in C++ with ECS from scratch ([R-type](https://github.com/Miou-zora/R-Type))
+- R-type-like game in C++ with custom ECS from scratch ([R-type](https://github.com/Miou-zora/R-Type))
 - CI project creator that create a mirror for github epitech project ([Replic](https://github.com/Miou-zora/Replic))
 - Implementation of a Raytracer using approximation of light's rays of a surface (Monte Carlo method) ([Raytracer](https://github.com/Miou-zora/Raytracer))
 - AR Project, where user is immersed in the death star scene of first Star Wars film using HTC Tracker (currently unavailable)
