@@ -1,11 +1,15 @@
-<img src="kaine.png" width="250" align="right">
+<img src="kaine.png" width="300" align="right">
 
 ### Hi, I'm Miouzora and I'm a french CS student from [Epitech](https://www.epitech.eu/). I love game dev and weird technos.
 
 ## 💬 <samp>Now:<samp>
+
+
 - Creating a spline visualizer in Zig & Nix & Raylib ([Zix](https://github.com/Miou-zora/Zix))
 
 ## 💭 <samp>Later:<samp>
+
+
 - Fluid simulation
 - Terrain generation
 - Dotfile NixOS 🌸
