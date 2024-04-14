@@ -30,7 +30,7 @@
 > You can contact me on discord (miouzora) for anything.
 
 <details>
-<summary><samp>Some fancy stuff on what I've done so far</samp></summary>
+<summary><samp>Some fancy stuff of what I've done so far</samp></summary>
 <br>
 
 ## 🎮 <samp>Game Dev</samp>
