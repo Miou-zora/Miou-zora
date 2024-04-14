@@ -23,6 +23,8 @@
 - Implementation of a Raytracer using approximation of light's rays of a surface (Monte Carlo method) ([Raytracer](https://github.com/Miou-zora/Raytracer))
 - AR Project, where user is immersed in the death star scene of first Star Wars film using HTC Tracker (currently unavailable)
 
+</br>
+
 > [!IMPORTANT]
 > You can contact me on discord (miouzora) for anything.
 
