@@ -1,4 +1,4 @@
-<img src="kaine.png" width="300" align="right">
+<img src="kaine.png" width="30%" align="right">
 
 ### Hi, I'm Miouzora and I'm a french CS student from [Epitech](https://www.epitech.eu/). I love game dev and weird technos.
 
