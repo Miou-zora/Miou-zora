@@ -4,18 +4,17 @@
 
 ## 💬 <samp>Now:<samp>
 
-
-- Creating a spline visualizer in Zig & Nix & Raylib ([Zix](https://github.com/Miou-zora/Zix))
+- Raytracer in Zig ([Zaytracer](https://github.com/Miou-zora/Zaytracer))
 
 ## 💭 <samp>Later:<samp>
-
 
 - Fluid simulation
 - Terrain generation
 - Dotfile NixOS 🌸
-- Raytracer ([again](https://github.com/Miou-zora/Raytracer))
 
 ## 💤 <samp>Previously:<samp>
+
+- Creating a spline visualizer in Zig & Nix & Raylib ([Zix](https://github.com/Miou-zora/Zix))
 - Implementation of a worm like entity in Rust & Bevy ([WoRm](https://github.com/Miou-zora/WoRm))
 - Setup of a minecraft server for OCI ([Oracle-AnsibleMine](https://github.com/Miou-zora/Oracle-AnsibleMine))
 - R-type-like game in C++ with custom ECS from scratch ([R-type](https://github.com/Miou-zora/R-Type))
