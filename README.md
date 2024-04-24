@@ -11,6 +11,7 @@
 - Fluid simulation
 - Terrain generation
 - Dotfile NixOS 🌸
+- Test NeoVim
 
 ## 💤 <samp>Previously:<samp>
 
