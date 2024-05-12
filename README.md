@@ -4,8 +4,6 @@
 
 ## 💬 <samp>Now:<samp>
 
-- Raytracer in Zig ([Zaytracer](https://github.com/Miou-zora/Zaytracer))
-
 ## 💭 <samp>Later:<samp>
 
 - Fluid simulation
@@ -15,6 +13,7 @@
 
 ## 💤 <samp>Previously:<samp>
 
+- Raytracer in Zig using UV mapping ([Zaytracer](https://github.com/Miou-zora/Zaytracer))
 - Creating a spline visualizer in Zig & Nix & Raylib ([Zix](https://github.com/Miou-zora/Zix))
 - Implementation of a worm like entity in Rust & Bevy ([WoRm](https://github.com/Miou-zora/WoRm))
 - Setup of a minecraft server for OCI ([Oracle-AnsibleMine](https://github.com/Miou-zora/Oracle-AnsibleMine))
