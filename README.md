@@ -4,12 +4,12 @@
 
 ## 💬 <samp>Now:<samp>
 
-- Terraria like game ([Eidolon](https://github.com/Miou-zora/Eidolon))
+- Terraria like game ([Eidolon](https://github.com/Miou-zora/Eidolon) (coming soon))
 
 ## 💭 <samp>Later:<samp>
 
 - Fluid simulation
-- Terrain generation (Maybe in [Eidolon](https://github.com/Miou-zora/Eidolon) (currently unavailable))
+- Terrain generation (Maybe in [Eidolon](https://github.com/Miou-zora/Eidolon))
 - Dotfile NixOS 🌸
 - Test NeoVim
 
