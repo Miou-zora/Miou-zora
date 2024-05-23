@@ -4,7 +4,7 @@
 
 ## 💬 <samp>Now:<samp>
 
-- Terraria like game ([Eidolon](https://github.com/Miou-zora/Eidolon) (coming soon))
+- Terraria like game ([Eidolon](https://github.com/Miou-zora/Eidolon))
 
 ## 💭 <samp>Later:<samp>
 
