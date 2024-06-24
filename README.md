@@ -11,7 +11,7 @@
 
 - Fluid simulation
 - Terrain generation (Maybe in [Eidolon](https://github.com/Miou-zora/Eidolon))
-- Test Unity ECS
+- Test Unity DOTS
 - Dotfile NixOS 🌸
 - Test NeoVim
 
