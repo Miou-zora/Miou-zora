@@ -4,6 +4,7 @@
 
 ## 💬 <samp>Now:<samp>
 
+- Graphically and physically realistic game engine ([Engine²](https://github.com/EngineSquared)) 
 - Terraria like game ([Eidolon](https://github.com/Miou-zora/Eidolon))
 
 ## 💭 <samp>Later:<samp>
