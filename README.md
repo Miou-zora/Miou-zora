@@ -4,19 +4,18 @@
 
 ## 💬 <samp>Now:<samp>
 
-- Graphically and physically realistic game engine ([Engine²](https://github.com/EngineSquared)) 
-- Terraria like game ([Eidolon](https://github.com/Miou-zora/Eidolon))
+- [Engine²](https://github.com/EngineSquared)
 
 ## 💭 <samp>Later:<samp>
 
 - Fluid simulation
-- Terrain generation (Maybe in [Eidolon](https://github.com/Miou-zora/Eidolon))
+- Terrain generation
 - Test Unity DOTS
 - Dotfile NixOS 🌸
-- Test NeoVim
 
 ## 💤 <samp>Previously:<samp>
 
+- Game Engine using Python ([Eidolon](https://github.com/Miou-zora/Eidolon))
 - Raytracer in Zig ([Zaytracer](https://github.com/Miou-zora/Zaytracer))
 - Creating a spline visualizer in Zig & Nix & Raylib ([Zix](https://github.com/Miou-zora/Zix))
 - Implementation of a worm like entity in Rust & Bevy ([WoRm](https://github.com/Miou-zora/WoRm))
