@@ -5,6 +5,7 @@
 ## 💬 <samp>Now:<samp>
 
 - [Engine²](https://github.com/EngineSquared)
+- [SniffSniff](https://github.com/Miou-zora/SniffSniff)
 
 ## 💭 <samp>Later:<samp>
 
