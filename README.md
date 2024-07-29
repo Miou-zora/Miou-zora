@@ -12,6 +12,7 @@
 - Fluid simulation
 - Terrain generation
 - Test Unity DOTS
+- Try wasm
 - Dotfile NixOS 🌸
 
 ## 💤 <samp>Previously:<samp>
