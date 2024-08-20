@@ -16,7 +16,7 @@
 
 ## 💤 <samp>Previously:<samp>
 
-- Dofus Packet Sniffer, translator and save items price ([SniffSniff](https://github.com/Miou-zora/SniffSniff))
+- Dofus Packet Sniffer, translator and save items price in Go ([SniffSniff](https://github.com/Miou-zora/SniffSniff))
 - Game Engine using Python ([Eidolon](https://github.com/Miou-zora/Eidolon))
 - Raytracer in Zig ([Zaytracer](https://github.com/Miou-zora/Zaytracer))
 - Creating a spline visualizer in Zig & Nix & Raylib ([Zix](https://github.com/Miou-zora/Zix))
