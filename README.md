@@ -4,14 +4,14 @@
 
 ## 💬 <samp>Now:<samp>
 
-- [Engine²](https://github.com/EngineSquared)
+- Open-source physics game engine written in C++. ([Engine²](https://github.com/EngineSquared))
 
 ## 💭 <samp>Later:<samp>
 
 - Fluid simulation
 - Terrain generation
-- Test Unity DOTS
-- Try wasm
+- Unity DOTS
+- Wasm
 - Dotfile NixOS 🌸
 
 ## 💤 <samp>Previously:<samp>
