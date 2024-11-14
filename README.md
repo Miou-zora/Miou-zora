@@ -6,14 +6,6 @@
 
 - Open-source physics game engine written in C++. ([Engine²](https://github.com/EngineSquared))
 
-## 💭 <samp>Later:<samp>
-
-- Fluid simulation
-- Terrain generation
-- Unity DOTS
-- Wasm
-- Dotfile NixOS 🌸
-
 ## 💤 <samp>Previously:<samp>
 
 - Dofus Packet Sniffer, translator and save items price in Go ([SniffSniff](https://github.com/Miou-zora/SniffSniff))
