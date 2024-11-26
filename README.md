@@ -104,14 +104,6 @@
 <a href="https://github.com/Miou-zora/Jam-10-02-2023" target="_blank"><img alt="EpitechJam10022023" src="https://img.shields.io/badge/EpitechJam_Super_Hero_~_Jammy-7186FF?&style=for-the-badge&logoColor=white" /></a>
 <a href="https://github.com/Miou-zora/Hindi-Patas" target="_blank"><img alt="GameJam" src="https://img.shields.io/badge/EpitechJam_Game_~_Hindi_Patas-AA2430?&style=for-the-badge&logoColor=white" /></a>
 
-## ❤️ <samp>Favourite Projects</samp>
-
-<a href="https://github.com/Miou-zora/R-Type" target="_blank"><img alt="R-Type" src="https://img.shields.io/badge/R--Type-020752?&style=for-the-badge&logoColor=white" /></a>
-<a href="https://github.com/Miou-zora/Replic" target="_blank"><img alt="Replic" src="https://img.shields.io/badge/Replic-FFD343?&style=for-the-badge&logoColor=white" /></a>
-<a href="https://github.com/Miou-zora/Raytracer" target="_blank"><img alt="RayTracer" src="https://img.shields.io/badge/RayTracer-052196?&style=for-the-badge&logoColor=white" /></a>
-<a href="https://github.com/Queng123/Project-DevFest" target="_blank"><img alt="DevFestProject" src="https://img.shields.io/badge/DevFest_~_Star_Wars-B8B8B8?&style=for-the-badge&logoColor=white" /></a>
-<a href="https://github.com/Miou-zora/Jam-10-02-2023" target="_blank"><img alt="SuperHeroesJam" src="https://img.shields.io/badge/EpitechJam_Super_Heroes_~_Jammy-7186FF?&style=for-the-badge&logoColor=white" /></a>
-
 ## 📊 <samp>Some stats</samp>
 
 <div align="center">
