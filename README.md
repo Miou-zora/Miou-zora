@@ -18,6 +18,7 @@
 - CI project creator that create a mirror for github epitech project ([Replic](https://github.com/Miou-zora/Replic))
 - Implementation of a Raytracer using approximation of light's rays of a surface (Monte Carlo method) ([Raytracer](https://github.com/Miou-zora/Raytracer))
 - AR Project, where user is immersed in the death star scene of first Star Wars film using HTC Tracker (currently unavailable)
+- A libmy (Epitech Small LibC) that try to reach limit of ternary and recursive functions in C ([lib-C-ursed](https://github.com/Miou-zora/lib-C-ursed))
 
 > [!IMPORTANT]
 > You can contact me on discord (miouzora) for anything.
