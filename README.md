@@ -4,7 +4,7 @@
 
 ## 💬 <samp>Now:<samp>
 
-- Open-source physics game engine written in C++. ([Engine²](https://github.com/EngineSquared))
+- Open-source and highly customizable with realistic physics/rendering game engine written in C++. ([Engine²](https://github.com/EngineSquared))
 
 ## 💤 <samp>Previously:<samp>
 
