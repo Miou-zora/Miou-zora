@@ -4,7 +4,7 @@
 
 ## 💬 <samp>Now:<samp>
 
-- Open-source and highly customizable with realistic physics/rendering game engine written in C++. ([Engine²](https://github.com/EngineSquared))
+- Open-source and highly customizable game engine written in C++. ([Engine²](https://github.com/EngineSquared))
 
 ## 💤 <samp>Previously:<samp>
 
@@ -13,7 +13,7 @@
 - Game Engine using Python ([Eidolon](https://github.com/Miou-zora/Eidolon))
 - Raytracer in Zig ([Zaytracer](https://github.com/Miou-zora/Zaytracer))
 - Creating a spline visualizer in Zig & Nix & Raylib ([Zix](https://github.com/Miou-zora/Zix))
-- Implementation of a worm like entity in Rust & Bevy ([WoRm](https://github.com/Miou-zora/WoRm))
+- Implementation of a worm like entity in Rust & Bevy ([WoRm](https://github.com/Miou-zora/WoRm),[WoRm²](https://github.com/Miou-zora/WoRm2) with [Engine²](https://github.com/EngineSquared/EngineSquared))
 - Setup of a minecraft server for OCI ([Oracle-AnsibleMine](https://github.com/Miou-zora/Oracle-AnsibleMine))
 - R-type-like game in C++ with custom ECS from scratch ([R-type](https://github.com/Miou-zora/R-Type))
 - CI project creator that create a mirror for github epitech project ([Replic](https://github.com/Miou-zora/Replic))
