@@ -8,7 +8,8 @@
 
 ## 💤 <samp>Previously:<samp>
 
-- Dofus Packet Sniffer, translator and save items price in Go ([SniffSniff](https://github.com/Miou-zora/SniffSniff))
+- Dofus(2) Packet Sniffer, translator and save items price in Go ([SniffSniff](https://github.com/Miou-zora/SniffSniff))
+- 2D multiplayer arcade game in godot ([Gravity Fight](https://github.com/Miou-zora/GravityFight)) 
 - Game Engine using Python ([Eidolon](https://github.com/Miou-zora/Eidolon))
 - Raytracer in Zig ([Zaytracer](https://github.com/Miou-zora/Zaytracer))
 - Creating a spline visualizer in Zig & Nix & Raylib ([Zix](https://github.com/Miou-zora/Zix))
@@ -31,6 +32,8 @@
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 <a href="https://github.com/Miou-zora/R-Type" target="_blank"><img alt="Personal ECS" src="https://img.shields.io/badge/Personal_ECS-020752?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/Miou-zora/Eidolon" target="_blank"><img alt="Eidolon" src="https://img.shields.io/badge/Eidolon-051032?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/EngineSquared/EngineSquared" target="_blank"><img alt="Engine²" src="https://img.shields.io/badge/Engine²-AA0000?&style=for-the-badge&logoColor=red" /></a>
 ![Bevy](https://img.shields.io/static/v1?style=for-the-badge&message=Bevy&color=232326&logo=Bevy&logoColor=FFFFFF&label=)
 ![Löve2D](https://img.shields.io/static/v1?style=for-the-badge&message=Löve2D&color=FFAAAA&logo=Löve2D&logoColor=FFAAAA&label=)
 ![Godot Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Godot+Engine&color=478CBF&logo=Godot+Engine&logoColor=FFFFFF&label=)
