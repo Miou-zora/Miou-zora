@@ -1,6 +1,6 @@
 <img src="kaine.png" width="30%" align="right">
 
-### Hi, I'm Miouzora and I'm a french CS student from [Epitech](https://www.epitech.eu/). I love game dev and weird technos.
+### Hi, I'm Miouzora and I'm a french CS student from [Epitech](https://www.epitech.eu/). I love game dev and weird technos. I'm also a big fan of [Osu!](https://osu.ppy.sh/users/10330495) and [DrakeNieR](https://www.jp.square-enix.com/nierautomata/)
 
 ## 💬 <samp>Now:<samp>
 
