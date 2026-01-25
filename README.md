@@ -5,7 +5,6 @@
 ## 💬 <samp>Now:<samp>
 
 - Open-source and highly customizable game engine written in C++. ([Engine²](https://github.com/EngineSquared))
-- WebGPU rendering engine plugin for [Engine²](https://github.com/EngineSquared) ([WebGPU-Squared](https://github.com/Miou-zora/WebGPU-Squared))
 - Process job applications faster with AI ([Tapply](https://github.com/Queng123/tapply))
 
 ## 💤 <samp>Previously:<samp>
