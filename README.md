@@ -112,8 +112,6 @@
 ## 📊 <samp>Some stats</samp>
 
 <div align="center">
-<img style="vertical-align: middle;" height="250em" src="https://github-readme-stats.vercel.app/api?username=Miou-zora&theme=chartreuse-dark&hide_border=true" />
-<img style="vertical-align: middle;" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Miou-zora&theme=chartreuse-dark&hide_border=true" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miou-zora&hide_border=true&currStreakNum=C3D1D9&theme=chartreuse-dark" alt="Miou-zora" />
 </div>
 
