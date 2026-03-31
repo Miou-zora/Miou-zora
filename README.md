@@ -5,10 +5,10 @@
 ## 💬 <samp>Now:<samp>
 
 - Open-source and highly customizable game engine written in C++. ([Engine²](https://github.com/EngineSquared))
-- Process job applications faster with AI ([Tapply](https://github.com/Queng123/tapply))
 
 ## 💤 <samp>Previously:<samp>
 
+- Process job applications faster with AI ([Tapply](https://github.com/Queng123/tapply))
 - Dofus(2) Packet Sniffer, translator and save items price in Go ([SniffSniff](https://github.com/Miou-zora/SniffSniff))
 - 2D multiplayer arcade game in godot ([Gravity Fight](https://github.com/Miou-zora/GravityFight)) 
 - Game Engine using Python ([Eidolon](https://github.com/Miou-zora/Eidolon))
