@@ -43,8 +43,8 @@
 
 ## ♾️ <samp>DevOps</samp>
 
-![Docker](https://img.shields.io/badge/-❤️Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/❤️ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![github actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -75,7 +75,7 @@
 
 ## 🧩 <samp>Frameworks</samp>
 
-![React](https://img.shields.io/badge/❤️React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![VueJs](https://img.shields.io/badge/-VueJS-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
