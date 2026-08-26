@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 28" width="1200" height="28" role="img" aria-label="">
+  <style>
+    .b { animation: b 7s ease-in-out infinite; }
+    @keyframes b { 0%, 100% { opacity: 0.35; } 50% { opacity: 0.95; } }
+  </style>
+  <line x1="150" y1="14" x2="560" y2="14" stroke="#8C7E68" stroke-width="1" opacity="0.8"/>
+  <line x1="640" y1="14" x2="1050" y2="14" stroke="#8C7E68" stroke-width="1" opacity="0.8"/>
+  <path class="b" d="M600 6 L609 14 L600 22 L591 14 Z" fill="#9C7F45"/>
+</svg>

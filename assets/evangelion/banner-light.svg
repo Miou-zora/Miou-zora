@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Miouzora, Alexandre Franquet. Special operations, game dev division. System active: C++, C, Python.">
+  <style>
+    .l { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: 700; }
+    .j { font-family: "Hiragino Mincho ProN", "Yu Mincho", "MS Mincho", serif; font-weight: 700; }
+    .t { font-size: 11px; letter-spacing: 5px; }
+    .alert { animation: blink 1.9s steps(1, end) infinite; }
+    @keyframes blink { 0%, 58% { opacity: 1; } 59%, 100% { opacity: 0.1; } }
+    .drift { animation: drift 11s linear infinite; }
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(96px); } }
+  </style>
+  <defs>
+    <clipPath id="panel"><rect x="10" y="10" width="1180" height="280"/></clipPath>
+    <clipPath id="band"><rect x="10" y="10" width="1180" height="24"/></clipPath>
+  </defs>
+
+  <rect x="10" y="10" width="1180" height="280" fill="#E7E3D8"/>
+
+  <g clip-path="url(#band)">
+    <g class="drift" fill="#D62300">
+      <path d="M-110 34 L-62 10 h48 L-14 34 Z"/><path d="M-14 34 L34 10 h48 L82 34 Z"/>
+      <path d="M82 34 L130 10 h48 L178 34 Z"/><path d="M178 34 L226 10 h48 L274 34 Z"/>
+      <path d="M274 34 L322 10 h48 L370 34 Z"/><path d="M370 34 L418 10 h48 L466 34 Z"/>
+      <path d="M466 34 L514 10 h48 L562 34 Z"/><path d="M562 34 L610 10 h48 L658 34 Z"/>
+      <path d="M658 34 L706 10 h48 L754 34 Z"/><path d="M754 34 L802 10 h48 L850 34 Z"/>
+      <path d="M850 34 L898 10 h48 L946 34 Z"/><path d="M946 34 L994 10 h48 L1042 34 Z"/>
+      <path d="M1042 34 L1090 10 h48 L1138 34 Z"/><path d="M1138 34 L1186 10 h48 L1234 34 Z"/>
+    </g>
+  </g>
+
+  <g clip-path="url(#panel)">
+    <text class="j" x="1020" y="300" font-size="340" text-anchor="middle" fill="#6B2BA8" opacity="0.92">創</text>
+    <rect x="884" y="150" width="272" height="6" fill="#D62300"/>
+  </g>
+
+  <g stroke="#0A0A0A" opacity="0.5">
+    <line x1="66" y1="70" x2="700" y2="70"/>
+    <line x1="66" y1="242" x2="700" y2="242"/>
+  </g>
+
+  <text class="l t" x="66" y="60" fill="#0A0A0A">SPECIAL OPERATIONS · GAME DEV DIVISION</text>
+  <text class="l" x="64" y="148" font-size="84" letter-spacing="6" fill="#D62300">MIOUZORA</text>
+  <text class="l" x="66" y="180" font-size="17" letter-spacing="9" fill="#0A0A0A">ALEXANDRE FRANQUET</text>
+  <text class="j" x="66" y="216" font-size="24" letter-spacing="8" fill="#0A0A0A" opacity="0.9">創造せよ、何度でも</text>
+
+  <g class="alert">
+    <rect x="66" y="254" width="130" height="24" fill="#D62300"/>
+    <text class="j" x="131" y="271" font-size="15" fill="#E7E3D8" text-anchor="middle" letter-spacing="3">起動中</text>
+  </g>
+  <text class="l t" x="212" y="271" fill="#5E8500">SYSTEM ACTIVE · C++ / C / PYTHON</text>
+
+  <g fill="#0A0A0A" opacity="0.9">
+    <rect x="1150" y="256" width="30" height="3"/><rect x="1177" y="232" width="3" height="27"/>
+  </g>
+</svg>

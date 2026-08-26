@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 32" width="1200" height="32" role="img" aria-label="">
+  <style>
+    .l { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: 700; font-size: 10px; letter-spacing: 5px; }
+    .p { animation: p 3.4s ease-in-out infinite; }
+    @keyframes p { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
+  </style>
+  <rect x="10" y="4" width="1180" height="24" fill="#E7E3D8"/>
+  <rect x="10" y="15" width="1180" height="1" fill="#0A0A0A" opacity="0.35"/>
+  <rect x="10" y="10" width="120" height="12" fill="#D62300"/>
+  <rect class="p" x="138" y="10" width="12" height="12" fill="#5E8500"/>
+  <rect x="158" y="10" width="6" height="12" fill="#6B2BA8"/>
+  <text class="l" x="1180" y="20" text-anchor="end" fill="#0A0A0A" opacity="0.8">MIOUZORA · GITHUB</text>
+</svg>

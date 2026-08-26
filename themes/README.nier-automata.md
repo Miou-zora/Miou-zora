@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/nier-automata/banner-dark.svg">
-  <img src="assets/nier-automata/banner-light.svg" width="100%" alt="Miouzora, Alexandre Franquet. YoRHa personal data. Status — class: teacher at Epitech; core: C++ and C; now: building Wagoon; off duty: Osu! and macro photography. Equipment — languages: C++, C, Python; tools: Unity, Docker, xmake; field: game engines, renderers, game protocols. 8709 commits since 30 September 2021.">
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/nier-automata/banner-dark.svg">
+  <img src="../assets/nier-automata/banner-light.svg" width="100%" alt="Miouzora, Alexandre Franquet. YoRHa personal data. Status — class: teacher at Epitech; core: C++ and C; now: building Wagoon; off duty: Osu! and macro photography. Equipment — languages: C++, C, Python; tools: Unity, Docker, xmake; field: game engines, renderers, game protocols. 8709 commits since 30 September 2021.">
 </picture>
 
 ## <samp>W H O &nbsp; I S &nbsp; S P E A K I N G</samp>
@@ -15,8 +15,8 @@ Away from the keyboard I do photography, mostly macro.
 <a href="https://www.epitech.eu/"><img alt="Teaching at Epitech" src="https://img.shields.io/badge/-EPITECH-BAB5A1?style=flat-square&logoColor=454138"></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/nier-automata/divider-dark.svg">
-  <img src="assets/nier-automata/divider-light.svg" width="100%" alt="">
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/nier-automata/divider-dark.svg">
+  <img src="../assets/nier-automata/divider-light.svg" width="100%" alt="">
 </picture>
 
 ## <samp>C U R R E N T &nbsp; M I S S I O N</samp>
@@ -24,8 +24,8 @@ Away from the keyboard I do photography, mostly macro.
 **Wagoon** is the game I'm building right now: an automation game where you route goods along rails, with wagons doing the hauling. It's where most of my recent commits go, and it's what the engine and renderer work was practice for. The repo is still private.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/nier-automata/divider-dark.svg">
-  <img src="assets/nier-automata/divider-light.svg" width="100%" alt="">
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/nier-automata/divider-dark.svg">
+  <img src="../assets/nier-automata/divider-light.svg" width="100%" alt="">
 </picture>
 
 ## <samp>C O M B A T &nbsp; D A T A</samp>
@@ -75,8 +75,8 @@ Away from the keyboard I do photography, mostly macro.
 </details>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/nier-automata/divider-dark.svg">
-  <img src="assets/nier-automata/divider-light.svg" width="100%" alt="">
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/nier-automata/divider-dark.svg">
+  <img src="../assets/nier-automata/divider-light.svg" width="100%" alt="">
 </picture>
 
 <div align="center">
@@ -86,6 +86,6 @@ Away from the keyboard I do photography, mostly macro.
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/nier-automata/pod-dark.svg">
-  <img src="assets/nier-automata/pod-light.svg" width="100%" alt="Pod 042 transmission. Proposal: contact the unit on Discord, about anything. Handle: miouzora.">
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/nier-automata/pod-dark.svg">
+  <img src="../assets/nier-automata/pod-light.svg" width="100%" alt="Pod 042 transmission. Proposal: contact the unit on Discord, about anything. Handle: miouzora.">
 </picture>

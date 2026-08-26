@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 540" width="1200" height="540" role="img" aria-label="Miouzora, Alexandre Franquet. YoRHa personal data. Class: teacher at Epitech. Core: C++ and C. Now: building Wagoon. Off duty: Osu! and macro photography. Languages: C++, C, Python. Tools: Unity, Docker, xmake. Field: game engines, renderers, game protocols. 8709 commits since 30 September 2021.">
+  <style>
+    .f { font-family: helvetica, "Helvetica Neue", Arial, sans-serif; font-weight: 300; }
+    .t { font-size: 12px; letter-spacing: 3.4px; }
+    .s { font-size: 11px; letter-spacing: 3px; }
+    .lead { stroke: #454138; stroke-width: 1; stroke-dasharray: 1.5 4.5; opacity: 0.45; }
+    .sweep { animation: sweep 11s linear infinite; }
+    @keyframes sweep { from { transform: translateY(-90px); } to { transform: translateY(548px); } }
+    .cur { animation: cur 1.1s steps(1, end) infinite; }
+    @keyframes cur { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
+  </style>
+  <defs>
+    <pattern id="grid" width="5" height="5" patternUnits="userSpaceOnUse">
+      <rect width="5" height="5" fill="#D1CDB7"/>
+      <rect width="1" height="5" fill="#CCC8B1"/>
+      <rect width="5" height="1" fill="#CCC8B1"/>
+    </pattern>
+    <clipPath id="p"><rect x="10" y="10" width="1180" height="514"/></clipPath>
+  </defs>
+
+  <rect x="10" y="10" width="1180" height="514" fill="url(#grid)"/>
+
+  <!-- system bar -->
+  <rect x="10" y="10" width="1180" height="34" fill="#454138"/>
+  <rect x="30" y="21" width="12" height="12" fill="#DCD8C0"/>
+  <text class="f s" x="52" y="31" fill="#DCD8C0">YoRHa  ·  PERSONAL DATA</text>
+  <text class="f s" x="1170" y="31" fill="#DCD8C0" text-anchor="end">8709 COMMITS  ·  SINCE 2021.09.30</text>
+
+  <!-- title, with the framework's hard offset shadow -->
+  <text class="f" x="60" y="122" font-size="58" letter-spacing="19" fill="#BAB5A1">MIOUZORA</text>
+  <text class="f" x="55" y="117" font-size="58" letter-spacing="19" fill="#454138">MIOUZORA</text>
+  <text class="f" x="57" y="146" font-size="14" letter-spacing="10" fill="#454138" opacity="0.75">ALEXANDRE FRANQUET</text>
+
+  <!-- ── STATUS ── -->
+  <line x1="57" y1="170" x2="1143" y2="170" stroke="#454138" stroke-width="1.6"/>
+  <text class="f s" x="70" y="190" fill="#454138">S T A T U S</text>
+  <line x1="57" y1="202" x2="1143" y2="202" stroke="#454138" stroke-width="1.6"/>
+
+  <g>
+    <rect x="57" y="216" width="10" height="30" fill="#454138"/><rect x="71" y="216" width="3" height="30" fill="#454138"/>
+    <rect x="82" y="216" width="466" height="30" fill="#DCD8C0"/>
+    <rect x="548" y="216" width="3" height="30" fill="#BAB5A1"/><rect x="82" y="246" width="469" height="3" fill="#BAB5A1"/>
+    <text class="f t" x="98" y="236" fill="#454138">CLASS</text>
+    <line class="lead" x1="212" y1="232" x2="288" y2="232"/>
+    <text class="f t" x="302" y="236" fill="#454138">TEACHER / EPITECH</text>
+  </g>
+  <g>
+    <rect x="640" y="216" width="10" height="30" fill="#454138"/><rect x="654" y="216" width="3" height="30" fill="#454138"/>
+    <rect x="665" y="216" width="478" height="30" fill="#DCD8C0"/>
+    <rect x="1143" y="216" width="3" height="30" fill="#BAB5A1"/><rect x="665" y="246" width="481" height="3" fill="#BAB5A1"/>
+    <text class="f t" x="681" y="236" fill="#454138">NOW</text>
+    <line class="lead" x1="795" y1="232" x2="871" y2="232"/>
+    <text class="f t" x="885" y="236" fill="#454138">BUILDING WAGOON</text>
+  </g>
+  <g>
+    <rect x="57" y="258" width="10" height="30" fill="#454138"/><rect x="71" y="258" width="3" height="30" fill="#454138"/>
+    <rect x="82" y="258" width="466" height="30" fill="#454138"/>
+    <text class="f t" x="98" y="278" fill="#DCD8C0">CORE</text>
+    <line x1="212" y1="274" x2="288" y2="274" stroke="#DCD8C0" stroke-width="1" stroke-dasharray="1.5 4.5" opacity="0.55"/>
+    <text class="f t" x="302" y="278" fill="#DCD8C0">C++ / C<tspan class="cur" dx="16">▮</tspan></text>
+  </g>
+  <g>
+    <rect x="640" y="258" width="10" height="30" fill="#454138"/><rect x="654" y="258" width="3" height="30" fill="#454138"/>
+    <rect x="665" y="258" width="478" height="30" fill="#DCD8C0"/>
+    <rect x="1143" y="258" width="3" height="30" fill="#BAB5A1"/><rect x="665" y="288" width="481" height="3" fill="#BAB5A1"/>
+    <text class="f t" x="681" y="278" fill="#454138">OFF DUTY</text>
+    <line class="lead" x1="795" y1="274" x2="871" y2="274"/>
+    <text class="f t" x="885" y="278" fill="#454138">OSU!  ·  MACRO PHOTOGRAPHY</text>
+  </g>
+
+  <!-- ── EQUIPMENT ── -->
+  <line x1="57" y1="312" x2="1143" y2="312" stroke="#454138" stroke-width="1.6"/>
+  <text class="f s" x="70" y="332" fill="#454138">E Q U I P M E N T</text>
+  <line x1="57" y1="344" x2="1143" y2="344" stroke="#454138" stroke-width="1.6"/>
+
+  <g>
+    <rect x="57" y="358" width="10" height="30" fill="#454138"/><rect x="71" y="358" width="3" height="30" fill="#454138"/>
+    <rect x="82" y="358" width="466" height="30" fill="#DCD8C0"/>
+    <rect x="548" y="358" width="3" height="30" fill="#BAB5A1"/><rect x="82" y="388" width="469" height="3" fill="#BAB5A1"/>
+    <text class="f t" x="98" y="378" fill="#454138">LANGUAGES</text>
+    <line class="lead" x1="212" y1="374" x2="288" y2="374"/>
+    <text class="f t" x="302" y="378" fill="#454138">C++  ·  C  ·  PYTHON</text>
+  </g>
+  <g>
+    <rect x="640" y="358" width="10" height="30" fill="#454138"/><rect x="654" y="358" width="3" height="30" fill="#454138"/>
+    <rect x="665" y="358" width="478" height="30" fill="#DCD8C0"/>
+    <rect x="1143" y="358" width="3" height="30" fill="#BAB5A1"/><rect x="665" y="388" width="481" height="3" fill="#BAB5A1"/>
+    <text class="f t" x="681" y="378" fill="#454138">TOOLS</text>
+    <line class="lead" x1="795" y1="374" x2="871" y2="374"/>
+    <text class="f t" x="885" y="378" fill="#454138">UNITY  ·  DOCKER  ·  XMAKE</text>
+  </g>
+  <g>
+    <rect x="57" y="400" width="10" height="30" fill="#454138"/><rect x="71" y="400" width="3" height="30" fill="#454138"/>
+    <rect x="82" y="400" width="1061" height="30" fill="#DCD8C0"/>
+    <rect x="1143" y="400" width="3" height="30" fill="#BAB5A1"/><rect x="82" y="430" width="1064" height="3" fill="#BAB5A1"/>
+    <text class="f t" x="98" y="420" fill="#454138">FIELD</text>
+    <line class="lead" x1="212" y1="416" x2="288" y2="416"/>
+    <text class="f t" x="302" y="420" fill="#454138">GAME ENGINES  ·  RENDERERS  ·  GAME PROTOCOLS</text>
+  </g>
+
+  <!-- footer -->
+  <line x1="57" y1="466" x2="1143" y2="466" stroke="#BAB5A1" stroke-width="1.6"/>
+  <rect x="57" y="480" width="8" height="8" fill="#454138" opacity="0.8"/>
+  <text class="f" x="74" y="488" font-size="10" letter-spacing="3" fill="#454138" opacity="0.65">glory to mankind</text>
+  <rect x="10" y="508" width="1180" height="4" fill="#BAB5A1"/>
+
+  <g clip-path="url(#p)"><g class="sweep"><rect x="10" y="0" width="1180" height="70" fill="#FFFFFF" opacity="0.16"/></g></g>
+</svg>

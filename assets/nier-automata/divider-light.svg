@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 30" width="1200" height="30" role="img" aria-label="">
+  <defs>
+    <pattern id="g2" width="5" height="5" patternUnits="userSpaceOnUse">
+      <rect width="5" height="5" fill="#D1CDB7"/>
+      <rect width="1" height="5" fill="#CCC8B1"/>
+      <rect width="5" height="1" fill="#CCC8B1"/>
+    </pattern>
+  </defs>
+  <rect x="10" y="5" width="1180" height="20" fill="url(#g2)"/>
+  <rect x="10" y="5" width="10" height="20" fill="#454138"/>
+  <rect x="24" y="5" width="3" height="20" fill="#454138"/>
+  <rect x="10" y="25" width="1180" height="3" fill="#BAB5A1"/>
+  <line x1="38" y1="15" x2="1180" y2="15" stroke="#454138" stroke-width="1" opacity="0.3"/>
+</svg>
