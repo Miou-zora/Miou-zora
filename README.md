@@ -9,6 +9,7 @@
 French CS teacher at [Epitech](https://www.epitech.eu/). I mostly write C++ and C. Most of what's here started because I wanted to know how something worked, so I rebuilt it: an engine, a raytracer, a game's network protocol.
 
 Also a big fan of [Osu!](https://osu.ppy.sh/users/10330495) and [DrakeNieR](https://www.jp.square-enix.com/nierautomata/).
+Away from the keyboard I do photography, mostly macro.
 
 <img src="https://skillicons.dev/icons?i=cpp,c,py,unity,docker" alt="Tech I work in: C++, C, Python, Unity, Docker" />
 
