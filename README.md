@@ -70,5 +70,11 @@ Also a big fan of [Osu!](https://osu.ppy.sh/users/10330495) and [DrakeNieR](http
 
 </details>
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Miou-zora&hide_border=true&currStreakNum=C3D1D9&theme=chartreuse-dark" alt="Miou-zora's contribution streak: 8,709 total contributions since September 2021, longest streak 67 days" />
+
+</div>
+
 > [!IMPORTANT]
 > You can contact me on discord (miouzora) for anything.
