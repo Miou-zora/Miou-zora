@@ -1,81 +1,81 @@
-<img src="kaine.png" width="30%" align="right">
+<div align="center">
 
-### Hi, I'm Miouzora and I'm a french CS teacher from [Epitech](https://www.epitech.eu/). I love game dev and weird technos. I'm also a big fan of [Osu!](https://osu.ppy.sh/users/10330495) and [DrakeNieR](https://www.jp.square-enix.com/nierautomata/)
+<img src="kaine.png" width="180" alt="Kaine, from NieR">
 
-## 💬 <samp>Now:<samp>
+### Hi, I'm Miouzora 👋
 
-- Making an automation game with wagoons and rails. (currently private)
+**I love game dev and weird technos.**
 
-## 💤 <samp>Previously:<samp>
+French CS teacher at [Epitech](https://www.epitech.eu/). I mostly write C++ and C. Most of what's here started because I wanted to know how something worked, so I rebuilt it: an engine, a raytracer, a game's network protocol.
 
-- Dofus(3) breaking tools, crafting poutch and kamas optimization utilities. ([SniffSniffSquared](https://github.com/Miou-zora/SniffSniffSquared))
-- Website for Monster energy drinks collection tool. (currenty private) 
-- Open-source and highly customizable game engine written in C++. ([Engine²](https://github.com/EngineSquared))
-- Process job applications faster with AI ([Tapply](https://github.com/Queng123/tapply))
-- Dofus(2) Packet Sniffer, translator and save items price in Go ([SniffSniff](https://github.com/Miou-zora/SniffSniff))
-- 2D multiplayer arcade game in godot ([Gravity Fight](https://github.com/Miou-zora/GravityFight)) 
-- Game Engine using Python ([Eidolon](https://github.com/Miou-zora/Eidolon))
-- Raytracer in Zig ([Zaytracer](https://github.com/Miou-zora/Zaytracer))
-- Creating a spline visualizer in Zig & Nix & Raylib ([Zix](https://github.com/Miou-zora/Zix))
-- Implementation of a worm like entity in Rust & Bevy ([WoRm](https://github.com/Miou-zora/WoRm),[WoRm²](https://github.com/Miou-zora/WoRm2) with [Engine²](https://github.com/EngineSquared/EngineSquared))
-- Setup of a minecraft server for OCI ([Oracle-AnsibleMine](https://github.com/Miou-zora/Oracle-AnsibleMine))
-- R-type-like game in C++ with custom ECS from scratch ([R-type](https://github.com/Miou-zora/R-Type))
-- CI project creator that create a mirror for github epitech project ([Replic](https://github.com/Miou-zora/Replic))
-- Implementation of a Raytracer using approximation of light's rays of a surface (Monte Carlo method) ([Raytracer](https://github.com/Miou-zora/Raytracer))
-- AR Project, where user is immersed in the death star scene of first Star Wars film using HTC Tracker (currently unavailable)
-- A libmy (Epitech Small LibC) that try to reach limit of ternary and recursive functions in C ([lib-C-ursed](https://github.com/Miou-zora/lib-C-ursed))
+Also a big fan of [Osu!](https://osu.ppy.sh/users/10330495) and [DrakeNieR](https://www.jp.square-enix.com/nierautomata/).
+
+<img src="https://skillicons.dev/icons?i=cpp,c,py,unity,docker" alt="Tech I work in: C++, C, Python, Unity, Docker" />
+
+<a href="https://osu.ppy.sh/users/10330495"><img alt="Osu! profile: user 10330495" src="https://img.shields.io/badge/-Osu!-FF66AA?style=flat-square&logo=osu&logoColor=white"></a>
+<img alt="Discord: miouzora" src="https://img.shields.io/badge/-Discord%20miouzora-5865F2?style=flat-square&logo=discord&logoColor=white">
+<a href="https://www.epitech.eu/"><img alt="Teaching at Epitech" src="https://img.shields.io/badge/-Epitech-0B1C48?style=flat-square&logoColor=white"></a>
+
+</div>
+
+---
+
+## 💬 Now
+
+**Wagoon**, an automation game with wagons and rails. *(currently private)*
+
+## 💤 Previously
+
+| Project | What it is | Built with |
+| :-- | :-- | :-- |
+| [**Engine²**](https://github.com/EngineSquared/EngineSquared) | Open-source game engine, with a [WebGPU plugin](https://github.com/Miou-zora/WebGPU-Squared), Jolt physics and an [xmake package repo](https://github.com/EngineSquared/xrepo) | `C++` |
+| [**SniffSniffSquared**](https://github.com/Miou-zora/SniffSniffSquared) | Sniffer and protobuf decoder for the Dofus 3 protocol, with a trading dashboard on top | `Rust` `libpcap` `Next.js` `Postgres` |
+| [**R-Type**](https://github.com/Miou-zora/R-Type) | R-Type for 4 players, on an ECS written from scratch | `C++` |
+| [**Raytracer**](https://github.com/Miou-zora/Raytracer) | Raytracer that approximates a surface's light rays with the Monte Carlo method | `C++` |
+| [**Whanos**](https://github.com/Miou-zora/Whanos) | GCP project creator, using Terraform, Kubernetes, Ansible, Jenkins, Helm and Docker | `HCL` |
+| [**lib-C-ursed**](https://github.com/Miou-zora/lib-C-ursed) | A libmy that pushes ternary and recursive functions way too far | `C` |
+
+<details>
+<summary><b>Everything else</b></summary>
+<br>
+
+- [Zaytracer](https://github.com/Miou-zora/Zaytracer), a raytracer in Zig
+- [Zix](https://github.com/Miou-zora/Zix), spline visualiser with Raylib + Zig + Nix
+- [Raylib-Zig-Nix](https://github.com/Miou-zora/Raylib-Zig-Nix), minimal Raylib + Zig + Nix project
+- [WoRm](https://github.com/Miou-zora/WoRm) / [WoRm²](https://github.com/Miou-zora/WoRm2), a worm inspired by Terraria's Devourer of Gods, in Rust & Bevy, then redone on Engine²
+- [Eidolon](https://github.com/Miou-zora/Eidolon), a game engine in Python, to try ECS there
+- [SniffSniff](https://github.com/Miou-zora/SniffSniff), Dofus 2 packet sniffer and translator, in Go
+- [Gravity Fight](https://github.com/Miou-zora/gravity-fight), 2D multiplayer arcade game in Godot, with three classmates
+- [MyRiokart](https://github.com/Miou-zora/MyRiokart), a Mario Kart Wii clone in Unity
+- [Zappy](https://github.com/Miou-zora/Zappy), a game where AIs try to reproduce, in C
+- [Area](https://github.com/Miou-zora/Area), IFTTT replica with React / React Native and NestJS, on Oracle Cloud
+- [Replic](https://github.com/Miou-zora/Replic), CI/CD project creator that mirrors Epitech projects
+- [Oracle-AnsibleMine](https://github.com/Miou-zora/Oracle-AnsibleMine), Minecraft server setup for OCI
+- [Keimyung-Computer-Graphic](https://github.com/Miou-zora/Keimyung-Computer-Graphic), computer graphics coursework from KMU
+- [sudoku-JAVA-ccursed](https://github.com/Miou-zora/sudoku-JAVA-ccursed), a sudoku solver made of Java streams
+- [Xmake-OpenGl](https://github.com/Miou-zora/Xmake-OpenGl) and [HelloWorldXmakePackage](https://github.com/Miou-zora/HelloWorldXmakePackage-Package), xmake templates and packaging tests
+- Tapply, an AR Death Star scene with HTC trackers, a Monster energy collection tool *(private or offline)*
+
+</details>
+
+<details>
+<summary><b>Jams</b></summary>
+<br>
+
+<a href="https://github.com/twingoof/MONKE"><img alt="EpitechJam Success, MONKEY" src="https://img.shields.io/badge/-EpitechJam_Success_~_MONKEY-FFD700?style=flat-square&logoColor=black"></a>
+<img alt="EpitechJam Blue, Blue" src="https://img.shields.io/badge/-EpitechJam_Blue_~_Blue-0000FF?style=flat-square&logoColor=white">
+<a href="https://github.com/Queng123/GGJ"><img alt="Global Game Jam Root, We löve root" src="https://img.shields.io/badge/-GlobalGameJam_Root_~_We_löve_root-8B4513?style=flat-square&logoColor=white"></a>
+<a href="https://github.com/Miou-zora/Jam-10-02-2023"><img alt="EpitechJam Super Hero, Jammy" src="https://img.shields.io/badge/-EpitechJam_Super_Hero_~_Jammy-7186FF?style=flat-square&logoColor=white"></a>
+<a href="https://github.com/Miou-zora/Hindi-Patas"><img alt="EpitechJam Game, Hindi Patas" src="https://img.shields.io/badge/-EpitechJam_Game_~_Hindi_Patas-AA2430?style=flat-square&logoColor=white"></a>
+
+</details>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Miou-zora&show_icons=true&hide_border=true&theme=transparent" alt="Miou-zora's GitHub stats: commits, stars and pull requests" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miou-zora&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages across Miou-zora's repositories" />
+
+</div>
 
 > [!IMPORTANT]
 > You can contact me on discord (miouzora) for anything.
-
-<details>
-<summary><samp>Some fancy stuff of what I've done so far</samp></summary>
-<br>
-
-## 🎮 <samp>Game Dev</samp>
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-<a href="https://github.com/Miou-zora/R-Type" target="_blank"><img alt="Personal ECS" src="https://img.shields.io/badge/Personal_ECS-020752?&style=for-the-badge&logoColor=white" /></a>
-<a href="https://github.com/Miou-zora/Eidolon" target="_blank"><img alt="Eidolon" src="https://img.shields.io/badge/Eidolon-051032?&style=for-the-badge&logoColor=white" /></a>
-<a href="https://github.com/EngineSquared/EngineSquared" target="_blank"><img alt="Engine²" src="https://img.shields.io/badge/Engine²-AA0000?&style=for-the-badge&logoColor=red" /></a>
-![Bevy](https://img.shields.io/static/v1?style=for-the-badge&message=Bevy&color=232326&logo=Bevy&logoColor=FFFFFF&label=)
-![Löve2D](https://img.shields.io/static/v1?style=for-the-badge&message=Löve2D&color=FFAAAA&logo=Löve2D&logoColor=FFAAAA&label=)
-![Godot Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Godot+Engine&color=478CBF&logo=Godot+Engine&logoColor=FFFFFF&label=)
-![SFML/CSFML](https://img.shields.io/static/v1?style=for-the-badge&message=SFML/CSFML&color=567e25&logo=Löve2D&logoColor=567e25&label=)
-![Raylib](https://img.shields.io/static/v1?style=for-the-badge&message=Raylib&color=000000&logo=Raylib&logoColor=FFFFFF&label=)
-
-## ♾️ <samp>DevOps</samp>
-
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![github actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Sonar](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white)
-
-## 🌐 <samp>Languages</samp>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
-![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-## ♦️ <samp>Others</samp>
-![Nix](https://img.shields.io/badge/NixOS🌸-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-
-## 🍓 <samp>Jams</samp>
-
-<a href="https://github.com/twingoof/MONKE" target="_blank"><img alt="EpitechJamSuccess" src="https://img.shields.io/badge/EpitechJam_Success_~_MONKEY-FFD700?&style=for-the-badge&logoColor=white" /></a>
-<a href="https://github.com/Queng123/Jam" target="_blank"><img alt="EpitechJamBlue" src="https://img.shields.io/badge/EpitechJam_Blue_~_Blue-0000FF?&style=for-the-badge&logoColor=white" /></a>
-<a href="https://github.com/Queng123/GGJ" target="_blank"><img alt="GlobalGameJamRoot" src="https://img.shields.io/badge/GlobalGameJam_Root_~_We_löve_root-8B4513?&style=for-the-badge&logoColor=white" /></a>
-<a href="https://github.com/Miou-zora/Jam-10-02-2023" target="_blank"><img alt="EpitechJam10022023" src="https://img.shields.io/badge/EpitechJam_Super_Hero_~_Jammy-7186FF?&style=for-the-badge&logoColor=white" /></a>
-<a href="https://github.com/Miou-zora/Hindi-Patas" target="_blank"><img alt="GameJam" src="https://img.shields.io/badge/EpitechJam_Game_~_Hindi_Patas-AA2430?&style=for-the-badge&logoColor=white" /></a>
-
-## 📊 <samp>Some stats</samp>
-
-<div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miou-zora&hide_border=true&currStreakNum=C3D1D9&theme=chartreuse-dark" alt="Miou-zora" />
-</div>
-
-</details>
