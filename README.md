@@ -70,12 +70,5 @@ Also a big fan of [Osu!](https://osu.ppy.sh/users/10330495) and [DrakeNieR](http
 
 </details>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Miou-zora&show_icons=true&hide_border=true&theme=transparent" alt="Miou-zora's GitHub stats: commits, stars and pull requests" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miou-zora&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages across Miou-zora's repositories" />
-
-</div>
-
 > [!IMPORTANT]
 > You can contact me on discord (miouzora) for anything.
