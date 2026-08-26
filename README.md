@@ -1,13 +1,16 @@
 <img src="kaine.png" width="30%" align="right">
 
-### Hi, I'm Miouzora and I'm a french CS student from [Epitech](https://www.epitech.eu/). I love game dev and weird technos. I'm also a big fan of [Osu!](https://osu.ppy.sh/users/10330495) and [DrakeNieR](https://www.jp.square-enix.com/nierautomata/)
+### Hi, I'm Miouzora and I'm a french CS teacher from [Epitech](https://www.epitech.eu/). I love game dev and weird technos. I'm also a big fan of [Osu!](https://osu.ppy.sh/users/10330495) and [DrakeNieR](https://www.jp.square-enix.com/nierautomata/)
 
 ## 💬 <samp>Now:<samp>
 
-- Open-source and highly customizable game engine written in C++. ([Engine²](https://github.com/EngineSquared))
+- Making an automation game with wagoons and rails. (currently private)
 
 ## 💤 <samp>Previously:<samp>
 
+- Dofus(3) breaking tools, crafting poutch and kamas optimization utilities. ([SniffSniffSquared](https://github.com/Miou-zora/SniffSniffSquared))
+- Website for Monster energy drinks collection tool. (currenty private) 
+- Open-source and highly customizable game engine written in C++. ([Engine²](https://github.com/EngineSquared))
 - Process job applications faster with AI ([Tapply](https://github.com/Queng123/tapply))
 - Dofus(2) Packet Sniffer, translator and save items price in Go ([SniffSniff](https://github.com/Miou-zora/SniffSniff))
 - 2D multiplayer arcade game in godot ([Gravity Fight](https://github.com/Miou-zora/GravityFight)) 
